@@ -1,0 +1,9 @@
+[package]
+name = "rocksdb_csv"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+rocksdb = "0.23.0"
+csv = "1.3.0"
+tempfile = "3.20.0"
